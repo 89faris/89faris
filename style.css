@@ -1,6 +1,6 @@
 body {
   background-color: #FFFFE0; /* Warna kuning cerah */
-font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah
+  font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah
   color: #191970; /* Warna teks utama ( Biru Gelap) */
 }
 
@@ -11,11 +11,11 @@ font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah
   background-color: blue;
   border-radius: 15px; /* Membuat sudut menjadi melengkung */
   box-shadow; 0 4px 8px rgba(0,0,0,0.1 /* efek bayangan */
-  twxt align: center; /* Menengahkan semua teks didalam kartu */
+  text align: center; /* Menengahkan semua teks didalam kartu */
 }
 
 
 .kartu-profil img {
    width: 150px ;
-   border-radius: 50%; /* trik untuk membuat gambar persegi 
+   border-radius: 50%; /* trik untuk membuat gambar persegi
 }
